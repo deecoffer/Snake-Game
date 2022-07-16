@@ -118,3 +118,5 @@ class Field{
 
 const myfield = new Field(Field.generateField(10, 10, 0.2));
 myfield.startGame();
+
+//Game is now working, wohoo!
